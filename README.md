@@ -1,6 +1,6 @@
 # Material design iconfonts
 
-This repository is some kind of a fork of the original repository Google published.
+This repository is some kind of a fork of the [original repository](https://github.com/google/material-design-icons) Google published.
 
 It created to make it easy to add dependency to Google's iconfont in bower / npm and improve the usability
 
