@@ -13,3 +13,7 @@ using bower
 using npm
 
     npm install material-design-iconfonts --save
+
+## Version
+
+Material Icons 3.0.1
